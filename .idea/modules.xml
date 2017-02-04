@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learning_zookeeper.iml" filepath="$PROJECT_DIR$/.idea/modules/learning_zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learning_zookeeper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/learning_zookeeper_main.iml" group="learning_zookeeper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learning_zookeeper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/learning_zookeeper_test.iml" group="learning_zookeeper" />
+    </modules>
+  </component>
+</project>
